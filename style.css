@@ -1,0 +1,21 @@
+body{
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'M PLUS Code Latin', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Zen Kurenaido', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+a{
+    text-decoration: none;
+}
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.shadow{
+  
+    box-shadow: 0 9px 0px 0px #f0f1f5, 0 -9px 0px 0px #f0f1f5, 12px 0 15px -4px black, -12px 0 15px -4px grey;
+}
